@@ -16,7 +16,7 @@ A machine learning project to detect fraudulent credit card transactions using a
 - SMOTE balancing for imbalanced data
 - RandomForest-based fraud classification
 - Real-time prediction using a Streamlit dashboard
-https://github.com/Prasanna-555/Credit-card-fraud-detection/blob/main/Screenshot%201.png?raw=true
+   https://raw.githubusercontent.com/Prasanna-555/Credit-card-fraud-detection/refs/heads/main/Screenshot%201.png
 
 
 ## 📦 How to Run Locally
