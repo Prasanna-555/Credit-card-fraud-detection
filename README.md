@@ -10,12 +10,14 @@ A machine learning project to detect fraudulent credit card transactions using a
 - `requirements.txt`: Python dependencies
 
 ## 🚀 Live Demo
-👉 [Try the App on Streamlit Cloud](https://your-username.streamlit.app)
+👉 https://credit-card-fraud-detection-cctkrqdxczusa6ksraveoj.streamlit.app/
 
 ## 💡 Features
 - SMOTE balancing for imbalanced data
 - RandomForest-based fraud classification
 - Real-time prediction using a Streamlit dashboard
+
+
 
 ## 📦 How to Run Locally
 
